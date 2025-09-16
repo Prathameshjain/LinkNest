@@ -26,7 +26,7 @@ LinkNest is a modern, real-time video conferencing application built with React,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nesarw/LinkNest.git
+   git clone https://github.com/Prathameshjain/LinkNest.git
    cd LinkNest
    ```
 
